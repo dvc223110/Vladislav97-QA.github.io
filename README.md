@@ -1,2 +1,2 @@
 # Vladislav97-QA.github.io
-Сайт визитка HTML, CSS
+Моя визитка HTML+CSS+JS
